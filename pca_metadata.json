@@ -1,0 +1,23 @@
+{
+  "cols_num": [
+    "SepalLength",
+    "SepalWidth",
+    "PetalLength",
+    "PetalWidth"
+  ],
+  "cols_cat": [
+    "color",
+    "nivel"
+  ],
+  "pc_cols": [
+    "PC1",
+    "PC2",
+    "PC3"
+  ],
+  "cat_out_cols": [
+    "color___amarillo",
+    "color___azul",
+    "color___rojo",
+    "nivel"
+  ]
+}
